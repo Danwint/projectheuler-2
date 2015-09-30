@@ -13,8 +13,9 @@ public class ProjectEuler2 {
 			if(fibo3 % 2 == 0){
 				
 				fibosum = fibosum + fibo3;
-				System.out.println(fibosum);
+				
 			}
 		}
+		System.out.println(fibosum);
 	}
 }
